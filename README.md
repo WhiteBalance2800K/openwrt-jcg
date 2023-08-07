@@ -8,6 +8,9 @@
 
 A template for building OpenWrt with GitHub Actions
 
+自用 JCG Q30 Pro 固件，使用源码 https://github.com/hanwckf/immortalwrt-mt798x
+软件包有 Openclash、mosdns、adguard home、ipv6、tailscale、homebox等等，未编译多拨、ssr、passwall等
+
 ## Usage
 
 - Click the [Use this template](https://github.com/P3TERX/Actions-OpenWrt/generate) button to create a new repository.
