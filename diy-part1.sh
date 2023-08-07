@@ -20,4 +20,4 @@ echo 'src-git-full routing https://github.com/openwrt/routing.git;openwrt-21.02'
 echo 'src-git-full telephony https://github.com/openwrt/telephony.git;openwrt-21.02' >>feeds.conf.default
 echo 'src-git small https://github.com/kenzok8/small-package' >>feeds.conf.default 
 echo 'src-git kenzo https://github.com/kenzok8/openwrt-packages' >>feeds.conf.default
-echo 'src-git helloworld https://github.com/fw876/helloworld.git' >>feeds.conf.default
+echo 'src-git haibo https://github.com/haiibo/openwrt-packages' >>feeds.conf.default
